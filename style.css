@@ -45,6 +45,13 @@
   h1{
     font-size: 20px;
     color: #000;
+    margin-bottom: 15px;
+  }
+  h6{
+    font-size: 15px;
+    font-weight: 100;
+    text-align: center;
+    color: #000;
     margin-bottom: 32px;
   }
   
@@ -63,7 +70,7 @@
     justify-content: space-between;
     background-color: transparent;
     border: 2px solid #000;
-    border-radius: 2%;
+    border-radius: 15px 30px 15px 30px;;
     padding: 10px 15px;
     color: #000;
     text-decoration: none;
