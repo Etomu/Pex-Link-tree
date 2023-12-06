@@ -35,6 +35,22 @@
     padding: 12px;
     border-radius: 50%;
   }
+
+  .add-button{
+    display: flex;
+    align-self: flex-start;
+    color: #000;
+  }
+  
+  .add-icon{
+    font-size: 32px;
+    background-color: transparent;
+    border: 2px solid #000;
+    margin-top: 2px;
+    margin-bottom: 2rem;
+    padding: 12px;
+    border-radius: 50%;
+  }
   
   .img-container{
     height: 96px;
